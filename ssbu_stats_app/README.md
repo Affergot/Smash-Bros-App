@@ -1,4 +1,4 @@
-# flutter_interface
+# ssbu_stats_app
 
 A new Flutter project.
 

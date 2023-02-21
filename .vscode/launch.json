@@ -5,23 +5,23 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_interface",
-            "cwd": "flutter_interface",
+            "name": "ssbu_stats_app",
+            "cwd": "ssbu_stats_app",
             "request": "launch",
             "type": "dart"
             "program": "lib/main.dart"
         },
         {
-            "name": "flutter_interface (profile mode)",
-            "cwd": "flutter_interface",
+            "name": "ssbu_stats_app (profile mode)",
+            "cwd": "ssbu_stats_app",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
             "program": "lib/main.dart"
         },
         {
-            "name": "flutter_interface (release mode)",
-            "cwd": "flutter_interface",
+            "name": "ssbu_stats_app (release mode)",
+            "cwd": "ssbu_stats_app",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

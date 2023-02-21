@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4280203766",
+    "project_id": "ssbu-stats-app",
+    "storage_bucket": "ssbu-stats-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4280203766:android:f6e9724ff5e15499986fd7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_interface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4280203766-3o207g0qv24rup9lhnl56p9k54ktgh6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeEB6CUePCtu4eEPKd8BrUDh27fXrhMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4280203766-3o207g0qv24rup9lhnl56p9k54ktgh6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
